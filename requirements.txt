@@ -1,0 +1,7 @@
+numpy
+pandas
+openpyxl
+pyarrow
+torch
+requests
+websockets
